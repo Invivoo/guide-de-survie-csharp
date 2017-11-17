@@ -23,6 +23,9 @@ Guide de survie du développeur C#
 * see also : [Clr via C#](# Livres)
 
 ## WCF
+* Presentation de WCF : [MSDN blog (anglais)](https://msdn.microsoft.com/fr-fr/library/ms731082(v=vs.110).aspx)
+* Premiere application WCF : [MSDN blog (anglais)](https://msdn.microsoft.com/fr-fr/library/bb386386.aspx)
+* Overview : [PluralSight plateforme de formation en ligne](https://app.pluralsight.com/library/search?q=wcf)
 
 ## ![Logo WPF](images/wpf.png "WPF") WPF
 
@@ -42,8 +45,7 @@ Guide de survie du développeur C#
 # Divers
 
 ## Tests
-* JUnit
-* XUnit
+* XUnit : [Test your code](http://www.ennoble-studios.com/tuts/nunit-2-cheat-sheet.html)
 
 ## Addons 
 * Resharper : [cheat sheet](https://www.jetbrains.com/resharper/docs/ReSharper_DefaultKeymap_VSscheme.pdf) 
