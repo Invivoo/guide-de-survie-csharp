@@ -29,10 +29,10 @@ Guide de survie du développeur C#
 ## C# Notions
 
 ### Garbage collector
-* see also : [Clr via C#](## Livres)
+* see also : [Clr via C#](##Livres)
 
 ### Gestion de la mémoire
-* see also: [Under the hood of .net memory management](## Livres)
+* see also: [Under the hood of .net memory management](##Livres)
 
 ### Multi threading
 * [Le site Joseph Albahari](http://www.albahari.com/threading/) : ce site est une référence pour le multi-threading en C#
