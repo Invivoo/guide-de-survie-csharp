@@ -93,10 +93,10 @@ Guide de survie du développeur C#
 * [NET IL Assembler](https://www.amazon.com/NET-Assembler-Serge-Lidin/dp/1430267615/ref=sr_1_1?s=books&ie=UTF8&qid=1514486448&sr=1-1&keywords=net+il+assembler "Lien Amazon")
 
 ## Les blogs à suivre
-* (https://sites.google.com/site/unclebobconsultingllc/)[Robert C. Martin aka Uncle Bob]
-* (https://martinfowler.com/)[Martin Fowler]
-* (http://thebillwagner.com/Blog)[Bill Wagner]
-* (https://blogs.msdn.microsoft.com/)[blogs.msdn.microsoft.com]
+* [Robert C. Martin aka Uncle Bob](https://sites.google.com/site/unclebobconsultingllc/)
+* [Martin Fowler](https://martinfowler.com/)
+* [Bill Wagner](http://thebillwagner.com/Blog)
+* [blogs.msdn.microsoft.com](https://blogs.msdn.microsoft.com/)
 
 ## MOOC
 * [Microsoft Virtual Academy](https://mva.microsoft.com/) Le site de Microsoft pour les tutoriaux
