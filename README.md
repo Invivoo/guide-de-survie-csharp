@@ -11,20 +11,20 @@ Guide de survie du développeur C#
 ## .Net Framework
 
 ### Autres langagues
-* (F#)[http://fsharp.org/]
-* (github.com/Microsoft/visualfsharp)[https://github.com/Microsoft/visualfsharp]
+* [F#](http://fsharp.org/)
+* [github.com/Microsoft/visualfsharp](https://github.com/Microsoft/visualfsharp)
 
 ### CLS compliant
 
 ### Compilation
-* (La page github de Roslyn)[https://github.com/dotnet/roslyn]
-* (Le chat sur Roslyn)[https://gitter.im/dotnet/roslyn]
+* [La page github de Roslyn](https://github.com/dotnet/roslyn)
+* [Le chat sur Roslyn](https://gitter.im/dotnet/roslyn)
 
 ### Azure
 
 ### .net core
-* [http://www.dotnetfoundation.org/](.net foundation)
-* (Le github de la communauté .net)[https://github.com/dotnet] Microsoft est la communauté la plus importante de Github.
+* [.net foundation](http://www.dotnetfoundation.org/)
+* [Le github de la communauté .net](https://github.com/dotnet) Microsoft est la communauté la plus importante de Github.
 
 ## C# Notions
 
@@ -35,7 +35,7 @@ Guide de survie du développeur C#
 * see also: [Under the hood of .net memory management](## Livres)
 
 ### Multi threading
-* (Le site Joseph Albahari)[http://www.albahari.com/threading/] : ce site est une référence pour le multi-threading en C#
+* [Le site Joseph Albahari](http://www.albahari.com/threading/) : ce site est une référence pour le multi-threading en C#
 
 ### WCF
 * Presentation de WCF : [MSDN blog (anglais)](https://msdn.microsoft.com/fr-fr/library/ms731082(v=vs.110).aspx)
@@ -86,17 +86,17 @@ Guide de survie du développeur C#
 * [Frameword Design GuideLine](https://www.amazon.fr/Framework-Design-Guidelines-Conventions-Libraries/dp/0321545613 "Lien amazon") _(disponible au siège)_
 * [Under the hood of .net memory management](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) Le PDF est gratuit. Un très bon livre qui couvre la gestion de la mémoire en .net
 * [Writing high performance net code](https://www.amazon.com/Writing-High-Performance-NET-Code-Watson-ebook/dp/B00LR30G4O "Lien Amazon")
-* [Pro .NET performance] (https://www.amazon.com/Pro-NET-Performance-Optimize-Applications-ebook/dp/B009D7630W/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514486070&sr=1-1&keywords=pro+.net+performance "Lien Amazon") 
+* [Pro .NET performance](https://www.amazon.com/Pro-NET-Performance-Optimize-Applications-ebook/dp/B009D7630W/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514486070&sr=1-1&keywords=pro+.net+performance "Lien Amazon") 
 * [Microsoft .NET Archecting Applications for the enterprises](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/ref=sr_1_1?ie=UTF8&qid=1514486110&sr=8-1&keywords=microsoft+.net+architecting+applications+for+the+enterprise "Lien Amazon")
 * [Dependency Injection in .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/ref=sr_1_1?s=books&ie=UTF8&qid=1514486205&sr=1-1&keywords=dependency+injection+in+.net "Lien Amazon") Ce livre a le grand mérite de répondre à la question Pourquoi et non pas qu'à la question Comment.
 * [C# Deconstructed](https://www.amazon.com/Deconstructed-Discover-works-NET-Framework/dp/1430266708/ref=sr_1_1?s=books&ie=UTF8&qid=1514486413&sr=1-1&keywords=C%23+deconstructed "Lien Amazon")
 * [NET IL Assembler](https://www.amazon.com/NET-Assembler-Serge-Lidin/dp/1430267615/ref=sr_1_1?s=books&ie=UTF8&qid=1514486448&sr=1-1&keywords=net+il+assembler "Lien Amazon")
 
 ## Les blogs à suivre
-* [https://sites.google.com/site/unclebobconsultingllc/](Robert C. Martin aka Uncle Bob)
-* [https://martinfowler.com/](Martin Fowler)
-* [http://thebillwagner.com/Blog](Bill Wagner)
-* [https://blogs.msdn.microsoft.com/](blogs.msdn.microsoft.com)
+* (https://sites.google.com/site/unclebobconsultingllc/)[Robert C. Martin aka Uncle Bob]
+* (https://martinfowler.com/)[Martin Fowler]
+* (http://thebillwagner.com/Blog)[Bill Wagner]
+* (https://blogs.msdn.microsoft.com/)[blogs.msdn.microsoft.com]
 
 ## MOOC
 * [Microsoft Virtual Academy](https://mva.microsoft.com/) Le site de Microsoft pour les tutoriaux
